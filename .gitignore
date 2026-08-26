@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Course handout (instructor material - not redistributed)
+SWE463_Demo1_First_Flutter_App_Student_Instructions.pdf
